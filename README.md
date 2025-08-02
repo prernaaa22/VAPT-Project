@@ -1,8 +1,6 @@
 # VAPT-Project
 Cyber Security VAPT project on DVWA using Burp Suite, XAMPP, and Firefox – IBM PBEL submission.
 
-# VAPT-Project-DVWA
-Cyber Security VAPT project on DVWA using Burp Suite, XAMPP, and Firefox – IBM PBEL submission.
 # 🔐 VAPT Project – Damn Vulnerable Web Application (DVWA)
 
 This repository contains the final submission for my **Vulnerability Assessment and Penetration Testing (VAPT)** project conducted as part of the **IBM–NASSCOM Project-Based Experiential Learning (PBEL)** Cyber Security Program.
